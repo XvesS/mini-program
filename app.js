@@ -1,5 +1,6 @@
 //app.js  
 //修改测实.....
+//我是第二次
 App({
   onLaunch: function () {
     // 展示本地存储能力
